@@ -1,0 +1,97 @@
+﻿@model JSoft.ControlHorarios.Data.Empleado
+
+@{
+    ViewBag.Title = "Eliminar Empleado";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Eliminar empleado</h2>
+
+<h3>¿Está seguro de eliminar este empleado?</h3>
+<div>
+    <h4>Empleado</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Codigo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Codigo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre3)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre3)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Apellido1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Apellido1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Apellido2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Apellido2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Apellido3)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Apellido3)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cargo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cargo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ImagenSrc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ImagenSrc)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-default" /> |
+            @Html.ActionLink("Regresar", "Index")
+        </div>
+    }
+</div>

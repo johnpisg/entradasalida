@@ -1,0 +1,6 @@
+C:\SourceCode\EntradaSalida\ProcesaCambios\ProcesaCambios\bin\Debug\ProcesaCambios.exe.config
+C:\SourceCode\EntradaSalida\ProcesaCambios\ProcesaCambios\bin\Debug\ProcesaCambios.exe
+C:\SourceCode\EntradaSalida\ProcesaCambios\ProcesaCambios\bin\Debug\ProcesaCambios.pdb
+C:\SourceCode\EntradaSalida\ProcesaCambios\ProcesaCambios\obj\Debug\ProcesaCambios.csprojResolveAssemblyReference.cache
+C:\SourceCode\EntradaSalida\ProcesaCambios\ProcesaCambios\obj\Debug\ProcesaCambios.exe
+C:\SourceCode\EntradaSalida\ProcesaCambios\ProcesaCambios\obj\Debug\ProcesaCambios.pdb

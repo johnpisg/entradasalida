@@ -1,0 +1,10 @@
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.Data\bin\Debug\JSoft.ControlHorarios.Data.dll.config
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.Data\bin\Debug\JSoft.ControlHorarios.Data.dll
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.Data\bin\Debug\JSoft.ControlHorarios.Data.pdb
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.Data\bin\Debug\EntityFramework.dll
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.Data\bin\Debug\EntityFramework.xml
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.Data\obj\Debug\JSoft.ControlHorarios.Data.csprojResolveAssemblyReference.cache
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.Data\obj\Debug\JSoft.ControlHorarios.Data.dll
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.Data\obj\Debug\JSoft.ControlHorarios.Data.pdb

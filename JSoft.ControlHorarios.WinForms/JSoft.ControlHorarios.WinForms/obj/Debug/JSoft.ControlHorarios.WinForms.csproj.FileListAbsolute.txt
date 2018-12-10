@@ -1,0 +1,16 @@
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.WinForms\bin\Debug\JSoft.ControlHorarios.WinForms.exe.config
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.WinForms\bin\Debug\JSoft.ControlHorarios.WinForms.exe
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.WinForms\bin\Debug\JSoft.ControlHorarios.WinForms.pdb
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.WinForms\obj\Debug\JSoft.ControlHorarios.WinForms.csprojResolveAssemblyReference.cache
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.WinForms\obj\Debug\JSoft.ControlHorarios.WinForms.Properties.Resources.resources
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.WinForms\obj\Debug\JSoft.ControlHorarios.WinForms.csproj.GenerateResource.Cache
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.WinForms\obj\Debug\JSoft.ControlHorarios.WinForms.exe
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.WinForms\obj\Debug\JSoft.ControlHorarios.WinForms.pdb
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.WinForms\obj\Debug\JSoft.ControlHorarios.WinForms.FrmInfoEmpleado.resources
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.WinForms\obj\Debug\JSoft.ControlHorarios.WinForms.Controls.FrmMensaje.resources
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.WinForms\bin\Debug\JSoft.ControlHorarios.Data.dll
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.WinForms\bin\Debug\EntityFramework.dll
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.WinForms\bin\Debug\JSoft.ControlHorarios.Data.pdb
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.WinForms\bin\Debug\EntityFramework.xml
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.WinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\SourceCode\EntradaSalida\JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.WinForms\bin\Debug\EntityFramework.SqlServer.xml

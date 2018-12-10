@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSoft.ControlHorarios.WinForms", "JSoft.ControlHorarios.WinForms\JSoft.ControlHorarios.WinForms.csproj", "{622CF1AB-D2BE-4EBC-B2E2-4842823C70D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSoft.ControlHorarios.Data", "JSoft.ControlHorarios.Data\JSoft.ControlHorarios.Data.csproj", "{7111D2B1-902B-4CAB-924B-C8B6A7A972A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSoft.ControlHorarios.WebApp", "JSoft.ControlHorarios.WebApp\JSoft.ControlHorarios.WebApp.csproj", "{C25ABB98-96DC-471D-A0F2-CD6678A82EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{622CF1AB-D2BE-4EBC-B2E2-4842823C70D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622CF1AB-D2BE-4EBC-B2E2-4842823C70D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622CF1AB-D2BE-4EBC-B2E2-4842823C70D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622CF1AB-D2BE-4EBC-B2E2-4842823C70D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7111D2B1-902B-4CAB-924B-C8B6A7A972A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7111D2B1-902B-4CAB-924B-C8B6A7A972A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7111D2B1-902B-4CAB-924B-C8B6A7A972A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7111D2B1-902B-4CAB-924B-C8B6A7A972A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C25ABB98-96DC-471D-A0F2-CD6678A82EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25ABB98-96DC-471D-A0F2-CD6678A82EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25ABB98-96DC-471D-A0F2-CD6678A82EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25ABB98-96DC-471D-A0F2-CD6678A82EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,71 @@
+﻿@model JSoft.ControlHorarios.WebApp.Models.EntradaSalidaModel
+
+@{
+    ViewBag.Title = "Reporte Entrada y Salida";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid">
+    @using (Html.BeginForm("Generate", "Report", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="row text-center">
+            <h4>Entradas y Salidas de Empleados</h4>
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col-lg-3 col-md-6 col-xs-12 text-left">
+                <label class="label label-ch">Fecha desde:</label>
+            </div>
+            <div class="col-lg-3 col-md-6 col-xs-12 text-left">
+                @Html.EditorFor(m => m.FechaDesde)
+            </div>
+            <div class="col-lg-3 col-md-6 col-xs-12 text-left">
+                <label class="label label-ch">Fecha hasta:</label>
+            </div>
+            <div class="col-lg-3 col-md-6 col-xs-12 text-left">
+                @Html.EditorFor(m => m.FechaHasta)
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 text-center">
+                <input type="submit" class="btn btn-primary" value="Generar" />
+            </div>
+        </div>
+
+    }
+    <hr />
+    <div class="row text-center">
+        <h4>Reporte</h4>
+    </div>
+    <div class="row">
+        <div class="col-xs-12">
+            @if (Model.ReportData != null && Model.ReportData.Count > 0)
+            {
+                <table class="table">
+                    <tr>
+                        <th>Día</th>
+                        <th>Empleado</th>
+                        <th>Acción</th>
+                        <th>Hora</th>
+                    </tr>
+                    @foreach (var linea in Model.ReportData)
+                    {
+                        <tr>
+                            <td>@(linea.Dia.Value.ToString("dd/MM/yyyy"))</td>
+                            <td>@(linea.Nombre1 + ((" " + linea.Nombre2) ?? "") + ((" " + linea.Nombre3) ?? "") + " " + linea.Apellido1 + ((" " + linea.Apellido2) ?? "") + ((" " + linea.Apellido3) ?? ""))</td>
+                            <td>@(linea.Accion)</td>
+                            <td>@(linea.Hora.Value.ToString("hh':'mm"))</td>
+                        </tr>
+                    }
+                </table>
+            }
+            else
+            {
+                <h5>No se encontraron datos.</h5>
+            }
+        </div>
+    </div>
+</div>
+
